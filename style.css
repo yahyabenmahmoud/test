@@ -1,8 +1,8 @@
 h1{
-    text-align: center;
-    color: green;
+    text-align: left;
+    color: rgb(128, 0, 122);
 }
 p{
-    text-align: center;
-    color: blue;
+    text-align: right;
+    color: red
 }
